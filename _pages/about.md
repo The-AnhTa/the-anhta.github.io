@@ -30,7 +30,7 @@ Machine Learning
 ------
 These days, I am interested in the following particular topics: Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning.
 
-My main collaborators: [Professor Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick), [Doctor Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [AI Resident Tuc Nguyen-Van](https://scholar.google.com/citations?hl=en&user=t9B4MGYAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [AI Resident Hoang Van Pham](https://scholar.google.com/citations?hl=en&user=aIsjeywAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [Professor Dung Le](https://scholar.google.com/citations?hl=en&user=0eoYR1gAAAAJ&view_op=list_works&sortby=pubdate) (VinUniversity), [PhD Candidate Nam Phuong Tran](https://warwick.ac.uk/fac/sci/dcs/people/researchstudents/) (University of Warwick).
+My main collaborators: [Professor Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick), [Doctor Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [AI Resident Tuc Nguyen-Van](https://scholar.google.com/citations?hl=en&user=t9B4MGYAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [AI Resident Hoang Pham](https://scholar.google.com/citations?hl=en&user=aIsjeywAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [Professor Dung Le](https://scholar.google.com/citations?hl=en&user=0eoYR1gAAAAJ&view_op=list_works&sortby=pubdate) (VinUniversity), [PhD Candidate Nam Phuong Tran](https://warwick.ac.uk/fac/sci/dcs/people/researchstudents/) (University of Warwick).
 
 Publications (I directly contributed to):
 
@@ -47,4 +47,4 @@ Publications (I directly contributed to):
 
 More information
 ------
-All my publications are indexed at [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate).
+A complete list of my publications can be found at [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate).
