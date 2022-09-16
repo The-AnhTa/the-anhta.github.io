@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural network Pruning; while in Cryptography, I focus on Fully homomorphic encryption and Lattices.
+I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption and Lattices.
 
-From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. Before moving to France for PhD study in 2016, I did my undergraduate studies (BSc+MSc) in mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016.
+From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016.
 
 A data-driven personal website
 ======
