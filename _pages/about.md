@@ -44,7 +44,12 @@ Publications (I directly contributed to):
 
 1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Understanding Pruning at Initialization: An effective node-path balancing perspective*, under review.
 
-
 More information
 ------
 A complete list of my publications can be found at [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate).
+
+Teaching
+------
+- CS330: Introduction to Artificial Intelligence, Spring 2022, Tan Tao University.
+- MATH210: Multivariable Calculus 2, Summer 2022, Tan Tao University.
+- Linear algebra and Machine learning, Fall 2022, FPT Software AI Residency program.
