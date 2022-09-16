@@ -18,12 +18,11 @@ Cryptography
 ======
 Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. Previously, I was interested in Digital Signatures and Lattice-base Protocols.
 
-I have been very fortunate to work with the following amazing collaborators: [Professor Dung Hoang Duong at University of Wollongong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate), [Doctor Huy Quoc Le at University of Wollongong](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate)
+I have been very fortunate to work with the following amazing collaborators: [Professor Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [Doctor Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong).
 
 Publications:
 
-1. Ngoc Tuong Nguyen, Anh The Ta, Huy Quoc Le, Dung Hoang Duong, Willy Susilo,
-Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signatures From Lattices*, 27th European Symposium on Research in Computer Security (ESORICS), 09/2022.
+1. Ngoc Tuong Nguyen, Anh The Ta, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signatures From Lattices*, 27th European Symposium on Research in Computer Security (ESORICS), 09/2022.
 
 1. Anh The Ta, Thanh Xuan Khuc, Tuong Ngoc Nguyen, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signature for Blockchain Privacy Protection*, 26th Australasian Conference on Information Security and Privacy (ACISP), 12/2021.
 
