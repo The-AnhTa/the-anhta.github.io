@@ -11,12 +11,12 @@ redirect_from:
 I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption and Lattices.
 
 Short bio
-======
+------
 From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016. I am from Vinh Phuc, Viet Nam.
 
 Cryptography
-======
-Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. Previously, I was interested in Digital Signatures and Lattice-base Protocols.
+------
+Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. In addition, I am also interested in Digital Signatures and Lattice-base Protocols.
 
 I have been very fortunate to work with the following amazing collaborators: [Professor Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [Doctor Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong).
 
@@ -26,35 +26,25 @@ Publications:
 
 1. Anh The Ta, Thanh Xuan Khuc, Tuong Ngoc Nguyen, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signature for Blockchain Privacy Protection*, 26th Australasian Conference on Information Security and Privacy (ACISP), 12/2021.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Machine Learning
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+These days, I am interested in the following particular topics: Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning.
 
-Create content & metadata
+My main collaborators: [Professor Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick), [Doctor Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [AI Resident Tuc Nguyen-Van](https://scholar.google.com/citations?hl=en&user=t9B4MGYAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [AI Resident Hoang Van Pham](https://scholar.google.com/citations?hl=en&user=aIsjeywAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [Professor Dung Le](https://scholar.google.com/citations?hl=en&user=0eoYR1gAAAAJ&view_op=list_works&sortby=pubdate) (VinUniversity), [PhD Candidate Nam Phuong Tran] () (University of Warwick).
+
+Publications (I directly contributed to):
+
+1. Hoang Pham, Tuc Nguyen, The-Anh Ta, Dung D. Le, Long Tran-Thanh, *Pruning Deep Equilibrium Models* , ICML Workshop on Sparsity in Neural Networks, 06/2022.
+
+1. Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation*, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 06/2022.
+
+1.  Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Multi-scale Structured Knowledge Distillation for Continual Semantic Segmentation*, under review.
+
+1.  Nam Phuong Tran, The-Anh Ta, Long Tran-Thanh, *Invariant Lipschitz Bandits: A Side-Observation Approach*, under review.
+
+1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Understanding Pruning at Initialization: An effective node-path balancing perspective*, under review.
+
+
+More information
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+All my publications are indexed at [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate).
