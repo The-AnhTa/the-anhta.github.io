@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural network Pruning; while in Cryptography, I focus on Fully homomorphic encryption and Lattices.
+
+From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. Before moving to France for PhD study in 2016, I did my undergraduate studies (BSc+MSc) in mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016.
 
 A data-driven personal website
 ======
