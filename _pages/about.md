@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption and Lattices.
+I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan since 10/2022. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption and Lattices.
 
 Short bio
 ------
