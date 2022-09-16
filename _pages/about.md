@@ -16,7 +16,7 @@ From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Ch
 
 Cryptography
 ------
-Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. In addition, I am also interested in Digital Signatures and Lattice-base Protocols.
+Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. In addition, I am also interested in Digital Signatures and Lattice-based Protocols.
 
 My main collaborators: [Professor Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [Doctor Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong).
 
