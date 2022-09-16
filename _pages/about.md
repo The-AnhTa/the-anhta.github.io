@@ -14,11 +14,18 @@ Short bio
 ======
 From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016. I am from Vinh Phuc, Viet Nam.
 
-A data-driven personal website
+Cryptography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. Previously, I was interested in Digital Signatures and Lattice-base Protocols.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I have been very fortunate to work with the following amazing collaborators: [Professor Dung Hoang Duong at University of Wollongong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate), [Doctor Huy Quoc Le at University of Wollongong](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate)
+
+Publications:
+
+1. Ngoc Tuong Nguyen, Anh The Ta, Huy Quoc Le, Dung Hoang Duong, Willy Susilo,
+Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signatures From Lattices*, 27th European Symposium on Research in Computer Security (ESORICS), 09/2022.
+
+1. Anh The Ta, Thanh Xuan Khuc, Tuong Ngoc Nguyen, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signature for Blockchain Privacy Protection*, 26th Australasian Conference on Information Security and Privacy (ACISP), 12/2021.
 
 Getting started
 ======
