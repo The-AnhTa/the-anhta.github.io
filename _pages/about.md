@@ -38,11 +38,11 @@ Publications (I directly contributed to):
 
 1. Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation*, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 06/2022.
 
-1.  Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Multi-scale Structured Knowledge Distillation for Continual Semantic Segmentation*, under review.
+1.  Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *A preprint on Knowledge Distillation for Continual Semantic Segmentation*, under review.
 
-1.  Nam Phuong Tran, The-Anh Ta, Long Tran-Thanh, *Invariant Lipschitz Bandits: A Side-Observation Approach*, under review.
+1.  Nam Phuong Tran, The-Anh Ta, Long Tran-Thanh, *A preprint on Bandits with symmetries*, under review.
 
-1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Understanding Pruning at Initialization: An effective node-path balancing perspective*, under review.
+1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *A preprint on Pruning at Initialization*, under review.
 
 More information
 ------
