@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan since 11/2022. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption, Ring Signature and Lattices.
+I am a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan since 11/2022. I do research on Machine Learning and Cryptography. In Machine Learning, I am mainly interested in Continual Learning, Geometry and Topology of Data, and Neural Network Pruning; while in Cryptography, I focus on Fully Homomorphic Encryption, and Digital Signature.
 
 Short bio
 ------
 From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. 
+
 I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020 [(Link to my thesis)](https://www.theses.fr/2020UPASM007). 
+
 Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016. 
+
 I am from [Vinh Phuc, Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
 Cryptography
 ------
-My research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. In addition, I am also interested in Digital Signatures and Lattices.
+Currently, my research focuses on Fully Homomorphic Encryption and their applications in Secure Computation. In addition, I am also interested in Digital Signatures and Lattices.
 
 My main collaborators: [Professor Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [Doctor Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong).
 
@@ -31,11 +34,11 @@ Publications:
 
 Machine Learning
 ------
-I am interested in the following particular topics: Continual Learning for Segmantic Segmentation, Geometry and Topology of Data and Neural Network Pruning.
+I am interested in the following particular topics: Continual Learning, Geometry and Topology of Data, and Neural Network Pruning.
 
 My main collaborators: [Professor Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick), [Doctor Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong), [AI Resident Tuc Nguyen-Van](https://scholar.google.com/citations?hl=en&user=t9B4MGYAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [AI Resident Hoang Pham](https://scholar.google.com/citations?hl=en&user=aIsjeywAAAAJ&view_op=list_works&sortby=pubdate) (AI Center, FPT), [Professor Dung Le](https://scholar.google.com/citations?hl=en&user=0eoYR1gAAAAJ&view_op=list_works&sortby=pubdate) (VinUniversity), [PhD Candidate Nam Phuong Tran](https://warwick.ac.uk/fac/sci/dcs/people/researchstudents/) (University of Warwick).
 
-Publications (I directly contributed to):
+Publications:
 
 1. Hoang Pham, Tuc Nguyen, The-Anh Ta, Dung D. Le, Long Tran-Thanh, *Pruning Deep Equilibrium Models* , ICML Workshop on Sparsity in Neural Networks, 06/2022.
 
