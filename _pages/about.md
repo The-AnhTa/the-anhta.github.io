@@ -13,7 +13,7 @@ I am a researcher at the Information Security Division, KDDI Research Institute,
 Short bio
 ------
 From 05/2021 to 07/2022, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Viet Nam. 
-I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020 [thesis](https://www.theses.fr/2020UPASM007). 
+I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020 [(Link to my thesis)](https://www.theses.fr/2020UPASM007). 
 Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016. 
 I am from [Vinh Phuc, Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
