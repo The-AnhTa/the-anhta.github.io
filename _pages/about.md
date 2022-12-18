@@ -43,7 +43,7 @@ Publications (I directly contributed to):
 
 1.  Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *A preprint on Knowledge Distillation for Continual Semantic Segmentation*, under review.
 
-1.  Nam Phuong Tran, The-Anh Ta, Long Tran-Thanh, *Invariant Lipschitz Bandits: A Side Observation Approach*, [arxiv preprint](https://arxiv.org/abs/2212.07524).
+1.  Nam Phuong Tran, The-Anh Ta, Long Tran-Thanh, *Invariant Lipschitz Bandits: A Side Observation Approach*, [arxiv preprint](https://arxiv.org/abs/2212.07524): arXiv:2212.07524 .
 
 1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *A preprint on Pruning at Initialization*, under review.
 
