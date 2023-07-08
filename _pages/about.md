@@ -19,7 +19,7 @@ I grew up in [Vinh Phuc, Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3
 
 Cryptography:
 ------
-I have been working on designing Digital Signatures and Fully Homomorphic Encryption.
+I have been working on designing Digital Signatures and Fully Homomorphic Encryption schemes.
 
 Publications:
 
