@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (continual learning, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (continual learning, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas. Link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
 From 11/2022 until 5/2023, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan.
 From 05/2021 to 07/2023, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam. 
