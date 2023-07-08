@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (continual learning, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas.
+Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (continual learning, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
 From 11/2022 until 5/2023, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan.
 From 05/2021 to 07/2023, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam. 
@@ -21,8 +21,6 @@ Cryptography:
 ------
 I have been working on designing Digital Signatures and Fully Homomorphic Encryption.
 
-References: [Professor Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW), [Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (Tan Tao University, Vietnam).
-
 Publications:
 
 1. Anh The Ta, Khanh Nguyen, Dung Hoang Duong, Willy Susilo, Chunpeng Ge, Kazuhide Fukushima, Shinsaku Kiyomoto, *Multi-key Homomorphic Encryption Schemes from NTRU and TFHE*, preprint.
@@ -33,11 +31,11 @@ Publications:
 
 1. Anh The Ta, Thanh Xuan Khuc, Tuong Ngoc Nguyen, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signature for Blockchain Privacy Protection*, 26th Australasian Conference on Information Security and Privacy (ACISP), 12/2021.
 
-Machine Learning:
+References: [Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW), [Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (Tan Tao University, Vietnam).
+
+Cryptography:
 ------
 I am interested in the following particular topics: Continual Learning, Robustness, Efficiency.
-
-References: [Professor Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick, UK), [Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW).
 
 Publications:
 
@@ -51,8 +49,26 @@ Publications:
 
 1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Pruning at Initialization: a node-path balancing perspective*, preprint.
 
+References: [Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick, UK), [Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW).
 
-A complete list of my publications can be found at [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate).
+
+Mathematics:
+------
+
+1. The-Anh Ta, *On the distributions of quadratic residues and primitive roots over finite fields*, Studia Scientiarum Mathematicarum Hungarica 54(4) (2017), 426–435.
+    
+1.  Wei-Guo Foo, Joel Merker, The-Anh Ta, *Parametric CR-umbilical locus of ellipsoids in C2*, Comptes Rendus Mathematique 356(2) (2018), 214-221.
+    
+1. Zhangchi Chen, Wei-Guo Foo, Joel Merker, The-Anh Ta, *Normal forms for rigid C21 hypersurfaces M5 in C3*, Taiwanese Journal of Mathematics 25(2) (2021), 333-364.
+    
+1. Wei-Guo Foo, Joel Merker, The-Anh Ta, *Rigid equivalences of 5 dimensional 2 nondegenerate rigid real hypersurfaces M5 in C3 of constant Levi rank 1*, Michigan Mathematical Journal, Advance Publication, 1-26, (2021).
+    
+1. Joel Merker, The-Anh Ta, *Degrees $d \geq \big( \sqrt{n}\, \log\, n\big)^n$ and $d \geq \big( n\, \log\, n\big)^n$ in the Conjectures of Green-Griffiths and of Kobayashi*, Acta Mathematica Vietnamica, Volume 47, 305–358 (2022).
+
+1.  Wei-Guo Foo, Joel Merker, The-Anh Ta, *On Convergent Poincaré-Moser Reduction for Levi Degenerate Embedded 5-Dimensional CR Manifolds*, New York Journal of Mathematics, Volume 28, (2022), 250-336.
+
+1. Zhangchi Chen, Wei Guo Foo, Joël Merker and The-Anh Ta, *Lie-Cartan Differential Invariants and Poincaré-Moser Normal Forms: Confluences*, Bulletin of the Institute of Mathematics Academia Sinica (2023).
+
 
 Teaching:
 ------
