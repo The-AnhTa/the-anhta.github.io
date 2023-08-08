@@ -49,6 +49,8 @@ Publications:
 
 1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Pruning at Initialization: a node-path balancing perspective*, preprint.
 
+1. Tuc Nguyen-Van, Dung D. Le, The-Anh Ta, *Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold*, preprint, arXiv:2307.04514
+
 References: [Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick, UK), [Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW).
 
 
