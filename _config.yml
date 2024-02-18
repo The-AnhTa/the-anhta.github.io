@@ -83,9 +83,7 @@ author:
   name             : "The-Anh Ta"
   avatar           : "idphoto.jpg"
   bio              : 
-  location         : "Corner Vimiera & Pembroke Rd," 
-                      "Marsfield, NSW 2122,"
-                      "Australia"
+  location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.vn/citations?hl=vi&user=1y0vv1wAAAAJ"
