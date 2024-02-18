@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (continual learning, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas. Link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (adaptiveness, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas. Link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
+Since 8/2023, I work as a postdoc at CSIRO's Data61, Marsfield, NSW, Australia. 
 From 11/2022 until 5/2023, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan.
 From 05/2021 to 07/2023, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam. 
 
@@ -19,39 +20,30 @@ I grew up in [Vinh Phuc, Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3
 
 Cryptography:
 ------
-I have been working on designing Digital Signatures and Fully Homomorphic Encryption schemes.
+I work on digital signatures and secure computation.
 
 Publications:
 
-1. Anh The Ta, Khanh Nguyen, Dung Hoang Duong, Willy Susilo, Chunpeng Ge, Kazuhide Fukushima, Shinsaku Kiyomoto, *Multi-key Homomorphic Encryption Schemes from NTRU and TFHE*, preprint.
+1. Duy Tung Khanh Nguyen, Dung Hoang Duong, Willy Susilo, Yang-Wai Chow, The Anh Ta, *HeFUN: Homomorphic Encryption for Unconstrained Secure Neural Network Inference*, Future Internet, Volume 15, Issue 12, 12/2023.
 
-1. Thanh Xuan Khuc, Anh The Ta, Dung Hoang Duong, Willy Susilo, Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Logarithmic-Size (Linkable) Ring Signatures From Lattice Isomorphism Problems*, preprint.
+1. Thanh Xuan Khuc, Anh The Ta, Dung Hoang Duong, Willy Susilo, Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Logarithmic-Size (Linkable) Ring Signatures From Lattice Isomorphism Problems*, International Conference on Security, Privacy, and Applied Cryptography Engineering, 12/2023.
 
 1. Ngoc Tuong Nguyen, Anh The Ta, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signatures From Lattices*, 27th European Symposium on Research in Computer Security (ESORICS), 09/2022.
 
-1. Anh The Ta, Thanh Xuan Khuc, Tuong Ngoc Nguyen, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signature for Blockchain Privacy Protection*, 26th Australasian Conference on Information Security and Privacy (ACISP), 12/2021.
-
-References: [Dung Hoang Duong](https://scholar.google.com/citations?hl=en&user=9RXIMtkAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW), [Huy Quoc Le](https://scholar.google.com/citations?hl=en&user=RsBLTFYAAAAJ&view_op=list_works&sortby=pubdate) (Tan Tao University, Vietnam).
 
 Machine learning:
 ------
-I am interested in the following particular topics: Continual Learning, Robustness, Efficiency.
+I am interested in adaptivity, robustness and efficiency problems.
 
 Publications:
 
-1. Nguyen Ngoc-Hieu, Nguyen Hung-Quang, The-Anh Ta, Thanh Nguyen-Tang, Khoa D. Doan, Hoang Thanh-Tung, *A Cosine Similarity-based Method for Out-of-Distribution Detection*, preprint, ICML 2023 Workshop on Spurious Correlations, Invariance, and Stability.
+1. Nam Phuong Tran, The Anh Ta, Shuqing Shi, Debmalya Mandal, Yali Du, Long Tran-Thanh, *Learning the Expected Core of Strictly Convex Stochastic Cooperative Games*, preprint, arXiv:2402.07067
 
-1. Hoang Pham, Tuc Nguyen, The-Anh Ta, Dung D. Le, Long Tran-Thanh, *Pruning Deep Equilibrium Models* , ICML Workshop on Sparsity in Neural Networks, 06/2022.
-
+1. Hoang Pham, The-Anh Ta, Shiwei Liu, Lichuan Xiang, Dung Le, Hongkai Wen, Long Tran-Thanh, *Towards Data-Agnostic Pruning At Initialization: What Makes a Good Sparse Mask?*, Advances in Neural Information Processing Systems (NeurIPS), 12/2023.
+   
 1. Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation*, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 06/2022.
 
-1.  Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Multiscale Knowledge Distillation for Continual Semantic Segmentation*, preprint.
 
-1. Hoang Pham, The-Anh Ta, Shiwei Liu, Dung D. Le, Long Tran-Thanh, *Pruning at Initialization: a node-path balancing perspective*, preprint.
-
-1. Tuc Nguyen-Van, Dung D. Le, The-Anh Ta, *Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold*, preprint, arXiv:2307.04514
-
-References: [Long Tran-Thanh](https://scholar.google.co.uk/citations?hl=en&user=YBQai3gAAAAJ&view_op=list_works&sortby=pubdate) (University of Warwick, UK), [Minh Hieu Phan](https://scholar.google.com/citations?hl=en&user=gSEw8EsAAAAJ&view_op=list_works&sortby=pubdate) (University of Wollongong, NSW).
 
 
 Mathematics:
