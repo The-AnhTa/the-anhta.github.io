@@ -8,19 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I do research in Machine Learning (adaptiveness, robustness, efficiency) and Cryptography (digital signatures, secure computation, data privacy), and problems at the intersection of these areas. Link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 8/023, I have been working as a Research Scientist at Data61, CSIRO in Marsfield, NSW, Australia. I do research in Machine Learning (Continual Learning, Backdoor Learning, Decision Making) and Cryptography (Zero-knowledge Proof, Digital Signature, Data Privacy), and problems at the intersection of these areas. This is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
-Since 8/2023, I work as a postdoc at CSIRO's Data61, Marsfield, NSW, Australia. 
-From 11/2022 until 5/2023, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan.
-From 05/2021 to 07/2023, I was an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam. 
+Before moving to Australia, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan, from 11/2022 until 5/2023; and an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam, from 05/2021 to 07/2023.
 
-I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020 [(Link to my thesis)](https://www.theses.fr/2020UPASM007). 
-Before moving to France in 2016, I did my undergraduate studies (BSc+MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary from 2011 to 2016. 
+I obtained my PhD in Mathematics from the University of Paris-Saclay, Orsay, France on 09/2020. [(Link to my thesis)](https://www.theses.fr/2020UPASM007). 
+Before moving to France in 2016, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary, from 2011 to 2016. 
+
 I grew up in [Vinh Phuc, Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
+
+Machine Learning:
+------
+I am interested in building robust algorithms and agents which can adapt to ever changing working environments.
+
+Publications:
+
+1. Nam Phuong Tran, The-Anh Ta, Debmalya Mandal, Long Tran-Thanh, *Symmetric Linear Bandits with Hidden Symmetry*, Advances in Neural Information Processing Systems (NeurIPS), Poster, 2024. [arxiv](https://arxiv.org/abs/2405.13899)
+
+1. Nam Phuong Tran, The Anh Ta, Shuqing Shi, Debmalya Mandal, Yali Du, Long Tran-Thanh, *Learning the Expected Core of Strictly Convex Stochastic Cooperative Games*,  Advances in Neural Information Processing Systems (NeurIPS), Poster, 2024. [arxiv](https://arxiv.org/abs/2402.07067)
+
+1. Hoang Pham, The-Anh Ta, Anh Tran, Khoa Doan, *Flatness-aware Sequential Learning Generates Resilient Backdoors*, European Conference on Computer Vision (ECCV), Oral presentation, 2024. [arxiv](https://www.arxiv.org/abs/2407.14738)
+
+1. Hoang Pham, The-Anh Ta, Shiwei Liu, Lichuan Xiang, Dung Le, Hongkai Wen, Long Tran-Thanh, *Towards Data-Agnostic Pruning At Initialization: What Makes a Good Sparse Mask?*, Advances in Neural Information Processing Systems (NeurIPS), Poster, 2023. [paper](https://openreview.net/forum?id=xdOoCWCYaY&referrer=%5Bthe%20profile%20of%20Hoang%20Pham%5D(%2Fprofile%3Fid%3D~Hoang_Pham2))
+   
+1. Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation*, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Poster, 2022. [Paper](https://www.computer.org/csdl/proceedings-article/cvpr/2022/694600q6845/1H1naA5zDji)
 
 Cryptography:
 ------
-I work on digital signatures and secure computation.
+I am mainly interested in zero-knowledge proof, digital signature and data privacy.
 
 Publications:
 
@@ -31,23 +46,15 @@ Publications:
 1. Ngoc Tuong Nguyen, Anh The Ta, Huy Quoc Le, Dung Hoang Duong, Willy Susilo, Fuchun Guo, Kazuhide Fukushima, Shinsaku Kiyomoto, *Efficient Unique Ring Signatures From Lattices*, 27th European Symposium on Research in Computer Security (ESORICS), 09/2022.
 
 
-Machine learning:
-------
-I am interested in adaptivity, robustness and efficiency problems.
 
-Publications:
-
-1. Nam Phuong Tran, The Anh Ta, Shuqing Shi, Debmalya Mandal, Yali Du, Long Tran-Thanh, *Learning the Expected Core of Strictly Convex Stochastic Cooperative Games*, preprint, arXiv:2402.07067
-
-1. Hoang Pham, The-Anh Ta, Shiwei Liu, Lichuan Xiang, Dung Le, Hongkai Wen, Long Tran-Thanh, *Towards Data-Agnostic Pruning At Initialization: What Makes a Good Sparse Mask?*, Advances in Neural Information Processing Systems (NeurIPS), 12/2023.
-   
-1. Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum, *Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation*, 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 06/2022.
 
 
 
 
 Mathematics:
 ------
+
+I work on the equivalence of differential geometric strutures.
 
 1. The-Anh Ta, *On the distributions of quadratic residues and primitive roots over finite fields*, Studia Scientiarum Mathematicarum Hungarica 54(4) (2017), 426–435.
     
