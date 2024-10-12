@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 8/023, I have been working as a Research Scientist at Data61, CSIRO in Marsfield, NSW, Australia. I do research in Machine Learning (Continual Learning, Backdoor Learning, Decision Making) and Cryptography (Zero-knowledge Proof, Digital Signature, Data Privacy), and problems at the intersection of these areas. This is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hello, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 8/2023, I have been working as a Research Scientist at Data61, CSIRO in Marsfield, NSW, Australia. I do research in Machine Learning (Continual Learning, Backdoor Learning, Decision Making) and Cryptography (Zero-knowledge Proof, Digital Signature, Data Privacy), and problems at the intersection of these areas. This is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
 Before moving to Australia, I was a researcher at the Information Security Division, KDDI Research Institute, Inc. in Saitama, Japan, from 11/2022 until 5/2023; and an AI Scientist at AI Center, FPT Software, Ho Chi Minh City, Vietnam, from 05/2021 to 07/2023.
 
