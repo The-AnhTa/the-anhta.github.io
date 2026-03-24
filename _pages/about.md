@@ -23,11 +23,12 @@ Recent publications:
 
 1. Hoang Pham, The-Anh Ta, Long Tran-Thanh, *Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation*, Preprint 2026. [Paper](https://arxiv.org/abs/2602.06675)
 
+Old Memories of Math Olympiads:
 
+1. Third Prize, National Student Research Conference, Hungary (OTDK), 2015 [Page](https://otdk.hu/en/kezdolap/introducing-otdk/).
 
+1. Third Prize (2013), First Honorable Mention (2014), Miklos Schweitzer Mathematics Competition for University Students, Janos Bolyai Mathematical Society [Page](https://en.wikipedia.org/wiki/Mikl%C3%B3s_Schweitzer_Competition).
 
-Teaching:
-------
-- CS330: Introduction to Artificial Intelligence, Spring 2022, Tan Tao University.
-- MATH210: Multivariable Calculus 2, Summer 2022, Tan Tao University.
-- Linear algebra for Machine learning, Fall 2022, FPT Software AI Residency program.
+1. Second Prize, International Mathematics Competition for University Students, 2012 [Page](https://en.wikipedia.org/wiki/International_Mathematics_Competition).
+
+1. Second Prize, Vietnamese National Mathematical Olympiad for High School Students, 2009.
