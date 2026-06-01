@@ -13,7 +13,7 @@ Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT So
 I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary. 
 I grew up in [Vinh Phuc (renamed to Phu Tho since 2025), Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
-My journey: Vinh Phuc &rarr Ha Noi (Vietnam) &\rarr Budapest (Hungary) &\rarr Orsay (France) &\rarr Ho Chi Minh City (Vietnam) &\rarr Saitama (Japan) &\rarr NSW (Australia) 
+My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; Orsay (France) &rarr; Ho Chi Minh City (Vietnam) &rarr; Saitama (Japan) &rarr; NSW (Australia) 
 
 **Recent publications:**
 
