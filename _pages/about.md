@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at Data61, The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness). Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness). Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT Software, Vietnam.
-I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eotvos Lorand University in Budapest, Hungary. 
+I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary. 
 I grew up in [Vinh Phuc (renamed to Phu Tho since 2025), Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
 My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; Orsay (France) &rarr; Ho Chi Minh City (Vietnam) &rarr; Saitama (Japan) &rarr; NSW (Australia) 
@@ -20,6 +20,8 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 1. The-Anh Ta, Xiangyu Hui, Sid Chi-Kin Chau, *Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More*, IEEE Symposium on Security and Privacy (IEEE SP), 2025. [Paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a184/26hiTyJTFjG)
 
 1. The-Anh Ta, Sid Chi-Kin Chau, *Post-Quantum Issuer-Hiding Anonymous Credential Scheme*, ACM CCS Workshop on Quantum-Resistant Cryptography and Security (ACM QRSEC 2025). [Paper](https://dl.acm.org/doi/full/10.1145/3733820.3764678)
+
+1. The Anh Ta, Sid Chau, Shangqi Lai, *Relating Cyberattacks for Disrupting Electricity Spot Markets and Manipulation in Energy Derivative Markets* ACM Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26).
 
 1. Hoang Pham, The-Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh, *The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis*, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) Spotlight. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119150)
 
