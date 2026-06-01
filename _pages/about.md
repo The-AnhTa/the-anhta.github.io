@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness). Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+
 Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT Software, Vietnam.
-I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary. 
+I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary.
+
 I grew up in [Vinh Phuc (renamed to Phu Tho since 2025), Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
 My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; Orsay (France) &rarr; Ho Chi Minh City (Vietnam) &rarr; Saitama (Japan) &rarr; NSW (Australia) 
