@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness). Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness), and more recently on Energy Cybersecurity and Smart Grids. Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
 
 Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT Software, Vietnam.
 I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary.
@@ -28,6 +28,8 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 1. Hoang Pham, The-Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh, *The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis*, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) Spotlight. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119150)
 
 1. Hoang Pham, The-Anh Ta, Long Tran-Thanh, *Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation*, The Forty-Third International Conference on Machine Learning (ICML 2026). [Paper](https://arxiv.org/abs/2602.06675)
+
+**Collaborators:** [Sid Chau (CSIRO)](https://people.csiro.au/c/s/sid-chau), [Hoang Pham (Warwick)](https://pvh1602.github.io/), [Long Tran-Thanh (Warwick)](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/)
 
 **Old Memories of Math Competitions:**
 
