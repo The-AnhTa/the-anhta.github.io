@@ -21,7 +21,7 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 
 1. The-Anh Ta, Sid Chi-Kin Chau, *Post-Quantum Issuer-Hiding Anonymous Credential Scheme*, ACM CCS Workshop on Quantum-Resistant Cryptography and Security (ACM QRSEC 2025). [Paper](https://dl.acm.org/doi/full/10.1145/3733820.3764678)
 
-1. The Anh Ta, Sid Chau, Shangqi Lai, *Relating Cyberattacks for Disrupting Electricity Spot Markets and Manipulation in Energy Derivative Markets* ACM Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26).
+1. The Anh Ta, Sid Chau, Shangqi Lai, *Relating Cyberattacks for Disrupting Electricity Spot Markets and Manipulation in Energy Derivative Markets*, ACM Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26).
 
 1. Hoang Pham, The-Anh Ta, Tom Jacobs, Rebekka Burkholz, Long Tran-Thanh, *The Graphon Limit Hypothesis: Understanding Neural Network Pruning via Infinite Width Analysis*, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) Spotlight. [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119150)
 
