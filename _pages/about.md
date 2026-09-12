@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness), and more recently on Energy Cybersecurity and Smart Grids. 
+Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). I'm a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition). Machine Learning (Neural Network Pruning, Robustness), and more recently on Energy Cybersecurity and Smart Grids. 
 
 Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT Software, Vietnam.
-I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary.
+I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France. 
+Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary.
 
 I grew up in [Vinh Phuc (renamed to Phu Tho since 2025), Viet Nam](https://en.wikipedia.org/wiki/V%C4%A9nh_Ph%C3%BAc_province).
 
 My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; Orsay (France) &rarr; Ho Chi Minh City (Vietnam) &rarr; Saitama (Japan) &rarr; NSW (Australia) 
 
-**Recent publications:**
+**Recent Publications:**
 
 1. The-Anh Ta, Xiangyu Hui, Sid Chi-Kin Chau, *Ring Referral: Efficient Publicly Verifiable Ad hoc Credential Scheme with Issuer and Strong User Anonymity for Decentralized Identity and More*, IEEE Symposium on Security and Privacy (IEEE SP), 2025. [Paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a184/26hiTyJTFjG)
 
@@ -29,15 +30,7 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 
 1. Hoang Pham, The-Anh Ta, Long Tran-Thanh, *Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation*, The Forty-Third International Conference on Machine Learning (ICML 2026). [Paper](https://arxiv.org/abs/2602.06675)
 
-**Math Competitions:**
-
-1. Third Prize, National Student Research Conference, Hungary (OTDK), 2015 [Page](https://otdk.hu/en/kezdolap/introducing-otdk/).
-
-1. Third Prize (2013), First Honorable Mention (2014), Miklos Schweitzer Mathematics Competition for University Students, Janos Bolyai Mathematical Society [Page](https://en.wikipedia.org/wiki/Mikl%C3%B3s_Schweitzer_Competition).
-
-1. Second Prize, International Mathematics Competition for University Students, 2012 [Page](https://en.wikipedia.org/wiki/International_Mathematics_Competition).
-
-1. Second Prize, Vietnamese National Mathematical Olympiad for High School Students, 2009.
+**Visitor Map**
 
 <div style="text-align: center; margin: 1.5rem 0;">
   <script
