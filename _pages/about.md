@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness), and more recently on Energy Cybersecurity and Smart Grids. Here is the link to [my GoogleScholar page](https://scholar.google.co.uk/citations?hl=en&user=1y0vv1wAAAAJ&view_op=list_works&sortby=pubdate). 
+Hi, my name is The-Anh Ta (Tạ Thế Anh in Vietnamese). Since 2023, I have been working as a Research Scientist at The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Marsfield, NSW, Australia. I do research in Applied Cryptography (Digital Signature, Zero-Knowledge Proof, Quantum-Safe Transition) and Machine Learning (Neural Network Pruning, Robustness), and more recently on Energy Cybersecurity and Smart Grids. 
 
 Before moving to Australia, I was at KDDI Research, Japan; and AI Center, FPT Software, Vietnam.
 I obtained my PhD in Mathematics from the Paris-Saclay University, Orsay, France [(Link to my thesis)](https://www.theses.fr/2020UPASM007). Before that, I did my undergraduate studies (BSc and MSc) in Mathematics at the Eötvös Loránd University (ELTE) in Budapest, Hungary.
