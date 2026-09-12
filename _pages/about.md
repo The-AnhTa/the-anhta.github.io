@@ -29,9 +29,7 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 
 1. Hoang Pham, The-Anh Ta, Long Tran-Thanh, *Pruning at Initialisation through the lens of Graphon Limit: Convergence, Expressivity, and Generalisation*, The Forty-Third International Conference on Machine Learning (ICML 2026). [Paper](https://arxiv.org/abs/2602.06675)
 
-**Collaborators:** [Sid Chau (CSIRO)](https://people.csiro.au/c/s/sid-chau), [Hoang Pham (Warwick)](https://pvh1602.github.io/), [Long Tran-Thanh (Warwick)](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/)
-
-**Old Memories of Math Competitions:**
+**Math Competitions:**
 
 1. Third Prize, National Student Research Conference, Hungary (OTDK), 2015 [Page](https://otdk.hu/en/kezdolap/introducing-otdk/).
 
