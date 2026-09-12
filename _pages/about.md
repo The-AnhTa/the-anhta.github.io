@@ -43,5 +43,5 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 
 <script type="text/javascript"
         id="mapmyvisitors"
-        src="https://mapmyvisitors.com/map.js?d=QFImI37iE7DRvgrZZuVmot6bLDSsjKN0EarBP6YFGtU&cl=ffffff&w=a">
+        src="https://mapmyvisitors.com/map.js?d=QFImI37iE7DRvgrZZuVmot6bLDSsjKN0EarBP6YFGtU&cl=ffffff&w=300">
 </script>
