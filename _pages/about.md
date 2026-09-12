@@ -41,7 +41,10 @@ My journey: Vinh Phuc &rarr; Ha Noi (Vietnam) &rarr; Budapest (Hungary) &rarr; O
 
 1. Second Prize, Vietnamese National Mathematical Olympiad for High School Students, 2009.
 
-<script type="text/javascript"
-        id="mapmyvisitors"
-        src="https://mapmyvisitors.com/map.js?d=QFImI37iE7DRvgrZZuVmot6bLDSsjKN0EarBP6YFGtU&cl=ffffff&w=300">
-</script>
+<div style="text-align: center; margin: 1.5rem 0;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=QFImI37iE7DRvgrZZuVmot6bLDSsjKN0EarBP6YFGtU&cl=ffffff&w=300">
+  </script>
+</div>
